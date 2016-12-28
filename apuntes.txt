@@ -1,0 +1,8 @@
+Tiny Tweaks:
+Pequeños cambios tales como fuente, tamaños de cajas, etc.
+Drop Columns:
+Cambio en las posiciones de vertical a horizaontal de las cajas.
+Mostly Fluid:
+Fijado del contenedor principal para cuando la web se estire a tamaños grandes como pantallas Retina >25"
+Layout Shifter:
+Cambio en la estructura en si, por ejemplo en un breakpoint el nav puede pasar a un lado.
